@@ -1,2 +1,4 @@
-body {
+.done-true {
+  text-decoration: line-through;
+  color: grey;
 }
